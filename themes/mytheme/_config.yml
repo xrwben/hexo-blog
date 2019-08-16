@@ -186,7 +186,7 @@ social:
 
 # copyright  
 since: 2017
-cotent_author: Sariay
+cotent_author: liben
 
 #########################################################################################################
 # 006-GALLERY PAGE
@@ -205,7 +205,7 @@ gallery_data: plugin/gallerypage/data.json
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-    enable: false
+    enable: true
     # if auto, trigger search by changing input
     # if manual, trigger search by pressing enter key or search button
     trigger: auto
